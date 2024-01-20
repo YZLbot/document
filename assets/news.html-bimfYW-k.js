@@ -1,4 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper-x3n3nnut.js";import{r as s,o as a,c,a as e,b as t,d as l,e as i}from"./app-UG7vahb0.js";const r={},d={class:"hint-container info"},_=e("p",{class:"hint-container-title"},"相关信息",-1),p=e("p",null,"如果群聊需要，请联系饲养员开启此功能。",-1),h=e("p",null,"如果被饲养员拒绝，可能是因为大规模群发有 QQ 被冻结的风险。",-1),g={href:"https://www.zhihu.com/people/mt36501",target:"_blank",rel:"noopener noreferrer"},u=i(`<p>每天早上 7 点自动推送新闻，以图片格式发出。</p><p>消息格式如下：</p><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>早上好呀, 这是今天的新闻速报
-q(≧▽≦q)
-</code></pre></div><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>[每日新闻图片]
-</code></pre><div class="highlight-lines"><div class="highlight-line"> </div></div></div>`,4);function m(v,f){const n=s("ExternalLinkIcon");return a(),c("div",null,[e("div",d,[_,p,h,e("p",null,[t("来源：知乎@"),e("a",g,[t("每天60秒读懂世界"),l(n)])])]),u])}const w=o(r,[["render",m],["__file","news.html.vue"]]);export{w as default};
