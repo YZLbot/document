@@ -268,6 +268,11 @@ copyright: false
 footer: 2022-2023 © TBP网络理想乡
 ---
 
+在使用前，请阅读并知晓 [最终用户许可协议 (EULA)](./eula.md)
+
+用户使用 YZLbot ，即表示同意本协议中的所有条款和条件。
+
+-----
 
 欢迎添加阿绫饲养群：[758502512](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-Pge39fIoWXs3-Ir3nACkrLx5l-45LPd)
 
