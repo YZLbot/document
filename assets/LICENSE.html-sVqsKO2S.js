@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as r,c as o,e as n}from"./app-24TAGmcJ.js";const t={},i=n(`<h2 id="gnu-affero-general-public-license-v3-0" tabindex="-1"><a class="header-anchor" href="#gnu-affero-general-public-license-v3-0" aria-hidden="true">#</a> GNU Affero General Public License v3.0</h2><div class="language-text" data-ext="text"><pre class="language-text"><code>                    GNU AFFERO GENERAL PUBLIC LICENSE
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as r,c as o,e as n}from"./app-JQHNjxdT.js";const t={},i=n(`<h2 id="gnu-affero-general-public-license-v3-0" tabindex="-1"><a class="header-anchor" href="#gnu-affero-general-public-license-v3-0" aria-hidden="true">#</a> GNU Affero General Public License v3.0</h2><div class="language-text" data-ext="text"><pre class="language-text"><code>                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. &lt;https://fsf.org/&gt;
