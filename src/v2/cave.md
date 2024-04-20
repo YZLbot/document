@@ -3,6 +3,8 @@ title: 回声洞
 icon: circle-info
 ---
 
+[**宣群爷你必将臭名昭著**](./fuck-cave.md)
+
 ## .ca+信息
 
 投稿一条回声洞。
