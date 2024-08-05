@@ -1,4 +1,4 @@
-import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as a,c as e,e as r}from"./app-B-UMMowC.js";const i={},c=r(`<p>经济系统分为<strong>经验</strong>（后续可能改为<strong>好感度</strong>）和**资金（li）**两部分。</p><p>前者不可消耗，用于对机器人的操作设置门槛。后者可以消耗。</p><h2 id="sign-签到" tabindex="-1"><a class="header-anchor" href="#sign-签到" aria-hidden="true">#</a> .sign / 签到</h2><p>进行签到。</p><p>每天仅可签到一次，每次获得 20~40 li 以及 2~10 经验。</p><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>叮咚~签到成功！
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as a,c as e,e as r}from"./app-O6ZWm8jO.js";const i={},c=r(`<p>经济系统分为<strong>经验</strong>（后续可能改为<strong>好感度</strong>）和**资金（li）**两部分。</p><p>前者不可消耗，用于对机器人的操作设置门槛。后者可以消耗。</p><h2 id="sign-签到" tabindex="-1"><a class="header-anchor" href="#sign-签到" aria-hidden="true">#</a> .sign / 签到</h2><p>进行签到。</p><p>每天仅可签到一次，每次获得 20~40 li 以及 2~10 经验。</p><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>叮咚~签到成功！
 li：1201(+38)
 经验：258(+6)
 已连续签到 12 天
