@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as i,e as a}from"./app-O6ZWm8jO.js";const c={},n=a(`<h2 id="getimg" tabindex="-1"><a class="header-anchor" href="#getimg" aria-hidden="true">#</a> .getimg</h2><p>触发图片转链接。机器人将等待你发送图片或表情，然后解析其在 tx 服务器上的链接，并发送结果。</p><p>此功能可用于 QQ 表情包无法直接保存的情况。</p><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>获取到的表情如下：
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as i,e as a}from"./app-GACHPEy1.js";const c={},n=a(`<h2 id="getimg" tabindex="-1"><a class="header-anchor" href="#getimg" aria-hidden="true">#</a> .getimg</h2><p>触发图片转链接。机器人将等待你发送图片或表情，然后解析其在 tx 服务器上的链接，并发送结果。</p><p>此功能可用于 QQ 表情包无法直接保存的情况。</p><div class="language-消息" data-ext="消息"><pre class="language-消息"><code>获取到的表情如下：
 [图片]
 URL: http://gchat.qpic.cn/gchatpic_new/0/0-0-283BA505444A195EF534D3AC665EF4FF/0?term=2
 --------
