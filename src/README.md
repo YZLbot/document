@@ -265,7 +265,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
-footer: 2022-2023 © TBP网络理想乡
+footer: 2022-2025 © TBP网络理想乡
 ---
 
 在使用前，请阅读并知晓 [最终用户许可协议 (EULA)](./eula.md)
