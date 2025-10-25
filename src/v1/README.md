@@ -1,5 +1,5 @@
 ---
-title: 说明书
+title: v1.0 (deprecated)
 icon: lightbulb
 ---
 
