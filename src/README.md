@@ -265,55 +265,25 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
-footer: 2022-2025 © TBP网络理想乡
+footer: 2022-2026 © TBP网络理想乡
 
 ---
 
-:::important
+阿绫饲养群：[758502512](https://qm.qq.com/q/IePK5IWyM8)
 
-**关于阿绫群聊服务调整及未来规划的公告**
+<!-- 阿绫的小窝频道：[pd71986358](https://pd.qq.com/s/4zxdwcsto) -->
 
-很遗憾地告诉大家，因 tx 的连续多次拉闸及维护的时间、精力成本过高，我们将于 2025/10/25 无限期暂停阿绫主账号的群聊机器人服务，并全面下线相关功能。
-与此同时，我们明确以下调整与规划：
+<!-- 云湖群聊：[695367192](https://yhfx.jwznb.com/share?key=a9vMBIsyLW10&ts=1707524398) -->
 
-1. QQ 空间激推将正常运营，不受此次调整影响。
-2. 我们正尝试将核心业务迁移至 QQ 开放平台，以期通过官方 API 提供更稳定的服务。
-3. 受平台限制，迁移后仅能保留部分功能。若审核顺利，新服务将能覆盖更多群聊与频道。
-
-感谢各位长久以来的支持与理解。山高水长，期待未来以新的形式与各位小伙伴们再会！
-
-:::
-
----
-
-在使用前，请阅读并知晓 [最终用户许可协议 (EULA)](./eula.md)
-
-用户使用 YZLbot ，即表示同意本协议中的所有条款和条件。
-
------
-
-阿绫饲养群：[758502512](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-Pge39fIoWXs3-Ir3nACkrLx5l-45LPd)
-
-阿绫的小窝频道：[pd71986358](https://pd.qq.com/s/4zxdwcsto)
-
-云湖群聊：[695367192](https://yhfx.jwznb.com/share?key=a9vMBIsyLW10&ts=1707524398)
+阿绫官方接口机器人：[3889503222](https://bot.q.qq.com/s/w1s8oL75Kg)
 
 饲养员 QQ：1492515593
 
 -----
 
-:::important
-**拉群限制**
+[【腾讯文档】问题反馈](https://docs.qq.com/form/page/DSVZxTnVxU1dJZ3N2)
 
-1. 中v圈内群；
-2. ≥73人（除去所有群机器人）；
-3. 地区同好群、学校同好群，且≥12人（除去所有群机器人）；
-4. 特殊情况的。
-使用文档上的限制暂时作废。
-未满足上述条件拉群且成功的好友，我们将直接拉黑。
-
-（如出现加群失败误消耗的情况，请联系饲养员）
-:::
+-----
 
 :::info
 
